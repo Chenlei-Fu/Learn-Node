@@ -1,3 +1,7 @@
+//------------------------------
+// 《使用 eventproxy 控制并发》
+// // https://github.com/alsotang/node-lessons/tree/master/lesson4
+
 var eventproxy = require('eventproxy');
 var superagent = require('superagent');
 var cheerio = require('cheerio');

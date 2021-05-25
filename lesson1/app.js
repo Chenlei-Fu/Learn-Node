@@ -1,3 +1,7 @@
+// ---------------------
+// 《一个最简单的 express 应用》
+// https://github.com/alsotang/node-lessons/tree/master/lesson1
+
 // 这句的意思就是引入 `express` 模块，并将它赋予 `express` 这个变量等待使用。
 var express = require('express');
 // 调用 express 实例，它是一个函数，不带参数调用时，会返回一个 express 实例，将这个变量赋予 app 变量。

@@ -1,3 +1,6 @@
+// ------------------------------------
+// 《学习使用外部模块》
+// https://github.com/alsotang/node-lessons/tree/master/lesson2
 var express = require('express');
 var utility = require('utility');
 

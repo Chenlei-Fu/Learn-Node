@@ -1,3 +1,7 @@
+// ------------------------------------
+// 《使用 superagent 与 cheerio 完成简单爬虫》
+// // https://github.com/alsotang/node-lessons/tree/master/lesson3
+
 var express = require('express');
 var superagent = require('superagent');
 var cheerio = require('cheerio');
